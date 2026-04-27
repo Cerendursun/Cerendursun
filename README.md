@@ -6,11 +6,6 @@ Zeynep Ceren Dursun
   <img src="https://readme-typing-svg.herokuapp.com/?lines=%3E+Computer+Engineer;%3E+Python+%7C+SQL+%7C+Web+Dev;%3E+System+Online&center=true&size=18&color=4da3ff">
 </h3>
 
----
-
-
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=4da3ff">
