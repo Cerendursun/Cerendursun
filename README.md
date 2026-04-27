@@ -15,9 +15,6 @@ Zeynep Ceren Dursun
 </p>
 
 ---
-
-### 📊 GitHub Tech Stats
-
 <p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerendursun&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
