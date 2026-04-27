@@ -10,10 +10,6 @@ Zeynep Ceren Dursun
 
 
 
-<p align="center">
-Python • SQL • HTML • CSS • JavaScript
-</p>
-
 ---
 
 <p align="center">
