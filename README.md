@@ -1,4 +1,6 @@
-<h1 align="center">Zeynep Ceren Dursun</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=>+Zeynep+Ceren+Dursun&center=true&size=22">
+</h3>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Python+%7C+SQL+%7C+Web+Dev&center=true&size=18">
