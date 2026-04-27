@@ -1,12 +1,11 @@
-<h1 align="center">
-  <span style="color:#4da3ff;"> Zeynep Ceren Dursun</span>
+<h1 align="center" style="color:#4da3ff;">
+Zeynep Ceren Dursun
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%3E+system.user=cerendursun;%3E+role=computer.engineer;%3E+status=online&center=true&size=18&color=4da3ff">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%3E+Computer+Engineer;%3E+Python+%7C+SQL+%7C+Web+Dev;%3E+System+Online&center=true&size=18&color=4da3ff">
 </h3>
 
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=4da3ff">
