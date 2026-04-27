@@ -8,9 +8,7 @@ Zeynep Ceren Dursun
 
 ---
 
-<p align="center" style="color:#4da3ff;">
-> initializing system...
-</p>
+
 
 <p align="center">
 Python • SQL • HTML • CSS • JavaScript
