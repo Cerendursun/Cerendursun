@@ -1,34 +1,35 @@
 <h1 align="center">Zeynep Ceren Dursun</h1>
-<h3 align="center">Bilgisayar Mühendisi</h3>
+<h3 align="center">Computer Engineer</h3>
 
 ---
 
-### 👩‍💻 Hakkımda
-Yazılım geliştirme ve veri odaklı sistemler üzerine çalışıyorum.
+### 👩‍💻 About
+Software development & data-driven systems.
 
 ---
 
-### ⚙️ Teknolojiler
+### ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sql,html,css,javascript,git,github" />
 </p>
 
 ---
 
-### 📌 Odak Alanlar
-- Veri analizi  
-- SQL & veri tabanı yönetimi  
-- Web geliştirme  
-- API & backend mantığı  
+### 📊 GitHub Stats
 
----
-
-### 📊 GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cerendursun&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cerendursun&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerendursun&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
-### 📫
+### 📫 Contact
 linkedin.com/in/cerendursun
