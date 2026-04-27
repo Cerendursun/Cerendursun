@@ -4,13 +4,13 @@
 ---
 
 ### 👩‍💻 About
-Software development & data-driven systems.
+Software development & data-oriented systems.
 
 ---
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,html,css,javascript,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js,git" height="28"/>
 </p>
 
 ---
@@ -18,18 +18,15 @@ Software development & data-driven systems.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cerendursun&show_icons=true&theme=tokyonight" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Cerendursun&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerendursun&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cerendursun&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerendursun&layout=compact&theme=tokyonight" />
+  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=Cerendursun&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📫 Contact
-linkedin.com/in/cerendursun
+LinkedIn: linkedin.com/in/cerendursun
